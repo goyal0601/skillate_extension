@@ -79,7 +79,8 @@ export default class App extends Component {
     console.log('button clicked');
     sendMessageToTabForResume(response => self.setState({ resume: response.data }));
   }
-
+/*testing
+*/
   render() {
     const { resume } = this.state;
     const { todos, actions } = this.props;
