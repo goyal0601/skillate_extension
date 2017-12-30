@@ -1,3 +1,5 @@
+This extension was made for company named 'skillate'. It is a startup in bengaluru. This oogle chrome extension is used for sourcing profile of the desired candidate from linkedin.
+
 # React Chrome Extension Boilerplate
 
 [![Build Status](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate.svg?branch=master)](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate)
